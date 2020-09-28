@@ -1,0 +1,13 @@
+/*
+ * Everything in this file is scoped to the HelloWorld component; i.e.
+ * the classes you create here can only be used in that component. The 
+ * class names will not conflict with any other class definition
+ * with the same name.
+ */
+.main-header {
+	width: 500px;
+	height: 40px;
+	margin: 0 auto;
+	background-color: darkgrey;
+	text-align: center;
+}
